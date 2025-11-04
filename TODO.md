@@ -6,3 +6,4 @@
 - [x] TODO: NLP Bag of Words for Recall Statements
 
 - [ ] TODO: Create NULL Model.
+- [ ] TODO: Fix simple linear regression and multiple regression models.
