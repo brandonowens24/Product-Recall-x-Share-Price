@@ -1,9 +1,15 @@
 - [ ] TODO: Update documentation and Markdown.
-- [ ] TODO: Save all cleaned data (for faster implementation)
+
+- [x] TODO: Save all cleaned data (for faster implementation)
 
 - [x] TODO: Get Dummies
 
 - [x] TODO: NLP Bag of Words for Recall Statements
 
-- [ ] TODO: Create NULL Model.
-- [ ] TODO: Fix simple linear regression and multiple regression models.
+- [x] TODO: Create NULL Model.
+
+- [x] TODO: Fix simple linear regression and multiple regression models.
+
+- [ ] TODO: Feature Engineer
+
+- [ ] TODO: Experiment with production models
